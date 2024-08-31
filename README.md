@@ -10,4 +10,4 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-[live site](hey-chat-five.vercel.app)
+[live site](https://hey-chat-five.vercel.app/))
